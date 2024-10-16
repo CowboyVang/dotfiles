@@ -1,0 +1,19 @@
+# APPS #
+#
+# Obsidian
+alt - o : open -a /Applications/Obsidian.app/Contents/MacOS/Obsidian
+
+# Discord
+alt - d : open -a /Applications/Discord.app/Contents/MacOS/Discord
+
+# arc
+
+alt - b : open -a /Applications/Arc.app/Contents/MacOS/Arc
+
+# wezterm
+
+alt - u : open -a /Applications/WezTerm.app/Contents/MacOS/wezterm-gui
+
+# typora 
+alt - p : open -a /Applications/Typora.app/Contents/MacOS/Typora
+
