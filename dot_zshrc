@@ -1,0 +1,21 @@
+## Confirm before I overwrite something.
+alias cp='cp -i'
+alias mv='mv -i'
+alias rm='rm -i'
+
+# Directory Navigation
+alias homecd='cd ~'
+alias configcd='cd ~/.config'
+
+# volatility
+alias vol='python3 ~/Documents/volatility3/vol.py'
+
+
+eval "$(starship init zsh)"
+eval "$(fzf --zsh)"
+set -o vi
+
+
+# source ~/.zshrc
+
+
