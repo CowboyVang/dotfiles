@@ -285,14 +285,14 @@ themes {
         fg "#D8DEE9"
         bg "#191D24"
         black "#3B4252"
-        red "#B74E58"
-        green "#97B67C"
-        yellow "#EBCB8B"
+        red "#C5727A"
+        green "#B1C89D"
+        yellow "#EFD49F"
         blue "#81A1C1"
-        magenta "#B48EAD"
-        cyan "#88C0D0"
+        magenta "#BE9DB8"
+        cyan "#9FC6C5"
         white "#E5E9F0"
-        orange "#D08770"
+        orange "#D79784"
     }
 }
 

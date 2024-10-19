@@ -1,0 +1,11 @@
+[colors]
+foreground    = "#50545D"    # Adjusted slightly from #D8DEE9 to account for rendering issues
+background    = "#16191F"    # Already adjusted
+cursor_bg     = "#D9E0EA"    # Adjusted from #D8DEE9
+cursor_border = "#D9E0EA"    # Adjusted from #D8DEE9
+cursor_fg     = "#252A35"    # Adjusted from #242933
+selection_fg  = "#D9E0EA"    # Adjusted from #D8DEE9
+selection_bg  = "#303744"    # Adjusted from #2E3440
+
+ansi          = [ "#1A1F25", "#C0626B", "#A4C08D", "#EDCC8C", "#83A2C2",  "#B590AE", "#91BEBC", "#D9E0EA", ]
+brights       = [ "#3D4554", "#D1707A", "#B3D297", "#F2D49B", "#8AC1D1",  "#CAA6C0", "#95CEDE", "#E7EBF1", ]
