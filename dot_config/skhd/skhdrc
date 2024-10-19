@@ -8,7 +8,7 @@ alt - d : open -a /Applications/Discord.app/Contents/MacOS/Discord
 
 # arc
 
-alt - b : open -a /Applications/Arc.app/Contents/MacOS/Arc
+alt - w : open -a /Applications/Arc.app/Contents/MacOS/Arc
 
 # wezterm
 
